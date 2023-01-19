@@ -1,0 +1,36 @@
+body {
+  font-family: "Oxygen", sans-serif;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+h4 {
+  padding: 15px 0 0 0;
+  font-weight: bolder;
+}
+
+.app {
+  border: 1px solid;
+  padding: 15px;
+  margin: 10px;
+  max-width: 650px;
+}
+
+.today {
+  font-size: 20px;
+}
+
+.prog {
+  text-align: center;
+}
+
+.icon {
+  font-size: 30px;
+}
